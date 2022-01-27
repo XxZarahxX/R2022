@@ -1,0 +1,8 @@
+Számításos lap
+Felhasználó neve: laci
+a oldal hossza: 99
+b oldal hossza: 55
+c oldal hossza: 33
+Kerület: 187
+Terület: 2722.5
+Kelt: Szeged, 2022/01/05
